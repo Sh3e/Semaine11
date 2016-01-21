@@ -1,0 +1,16 @@
+#essai {
+    margin: 1em;
+    height: 2em;
+    padding-left: 0.5em;
+    text-align: center;
+}
+#bouton {
+    height: 2em;
+}
+#resultat {
+    border: 1px solid black;
+    margin: 0 1em;
+    line-height: 2em;
+    padding-left: 0.5em;
+    text-align: center;
+}
